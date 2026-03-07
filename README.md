@@ -20,9 +20,3 @@ Python
 Machine Learning
 Flask
 Cybersecurity Tools
-
----
-
-## 📫 Connect With Me
-
-GitHub: https://github.com/yourusername
